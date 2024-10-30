@@ -1627,9 +1627,7 @@ input, select, textarea {
 		}
 		
 		
-		#ticker {
-			font: red;
-		}
+
 /* Footer */
 
 	#footer {
@@ -1683,12 +1681,16 @@ input, select, textarea {
 			color: rgb(0, 46, 232);
 		}	
 
+		
 		#when {
-			font-size: 5.2rem;
+			font-size: 8rem;
 			font-family: "Protest Revolution", "Sans Pro", sans-serif;
 			color: rgb(0, 46, 232);
 		}
-
+		
+		#ticker {
+			color: rgb(172, 0, 0);
+		}
 		#ca {
 			font-size: 2rem;
 			font-weight: bold;
